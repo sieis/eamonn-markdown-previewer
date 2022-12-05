@@ -6,16 +6,16 @@ main{
     flex-direction: column;
     align-items: center;
     font-family: 'Lexend Deca', sans-serif;
-
+    
 }
 
-#root{
+#root, #text{
     display: flex;
     flex-direction: column;
     justify-content: center;
     min-width: 300px;
-    width: 80%;
     text-align: center;
+    width: 80%;
 }
 
 #editor{
