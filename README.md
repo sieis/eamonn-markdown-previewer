@@ -8,4 +8,4 @@ Live site [here](https://eamonn-markdown.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/08674484-dae2-44f5-a325-54917da917a0/deploy-status)](https://app.netlify.com/sites/eamonn-markdown/deploys)
 
-![https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+![gif of someone coding on computer with back to camera](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
